@@ -1,4 +1,4 @@
-require 'spec_helper'
+require 'bob'
 
 describe Bob do
   it "should say 'Sure' when you ask him a question 'Bob how are you?'"
